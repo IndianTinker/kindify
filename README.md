@@ -1,3 +1,8 @@
+Kindify
+=======
+
+Making pdf's legible on Kindle
+
 This collection of programs uses pypdf to work.
 Install pypdf using:
 sudo pip install pypdf
